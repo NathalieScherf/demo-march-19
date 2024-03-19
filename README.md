@@ -10,7 +10,7 @@
 
 ###### smallest
 
-This is a **bold word ** of regular text. 
+This is a **bold word** of regular text. 
 
 
 Is this a new line *with italic text*?
